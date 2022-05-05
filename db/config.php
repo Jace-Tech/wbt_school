@@ -1,9 +1,9 @@
 <?php  
 
 define('HOST', 'localhost');
-define('USER', 'root');
-define('PASSWORD', '');
-define('DB', 'school');
+define('USER', 'worlgmig_school');
+define('PASSWORD', '100%wbtschoolapp');
+define('DB', 'worlgmig_school');
 
 
 $DSN = "mysql:host=" . HOST . ";dbname=" . DB;
